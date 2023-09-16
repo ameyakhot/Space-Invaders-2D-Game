@@ -2,7 +2,7 @@
 
 A classic arcade-style game reimagined with Python's pygame library.
 
-![Space Invaders Screenshot](./space-invader.png)
+![Space Invaders Screenshot](./assets/space-invader.png)
 
 ## Requirements
 
